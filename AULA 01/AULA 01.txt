@@ -1,0 +1,3 @@
+﻿1>------ Build iniciado: projeto: AULA 01, Configuração: Debug ------
+1>C:\Users\leonardo.vsantana1\OneDrive\AULAS\AULA 01\Program.cs(14,58,14,58): error CS1513: } esperada
+========== Compilar: 0 bem-sucedida, 1 com falha, 0 atualizada, 0 ignorada ==========
