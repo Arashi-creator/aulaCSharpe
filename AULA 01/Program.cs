@@ -23,7 +23,7 @@ namespace AULA_01
             Console.WriteLine($"{nome}");
              
 
-          
+          asas
         }
     }
 }
