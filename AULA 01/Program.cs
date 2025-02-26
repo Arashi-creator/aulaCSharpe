@@ -11,7 +11,7 @@ namespace AULA_01
            // úsuario escreve
 
             Console.WriteLine("Escreva seu nome");
-            string nomeUsuario = Console.ReadLine();
+            string nomeUsuario = Console.ReadLine()
 
             Console.WriteLine("Escreva sua idade");
             string idadeUsuario = Console.ReadLine();
